@@ -1,6 +1,7 @@
 # prickathon
 
-<script async defer src="https://prickathon-slackin.glitch.me/slackin.js?large"></script>
+[![Slack Status](https://prickathon-slackin.glitch.me/badge.svg)](https://prickathon-slackin.glitch.me)
+
 
 ## 参加方法
 
